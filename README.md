@@ -122,12 +122,6 @@ AdvancedStudentManagementSystem/
 - 使用数据库代替文件存储数据。
 - 实现更复杂的设计模式，例如观察者模式、策略模式等。
 
-**学习资源：**
-
-- [Oracle Java 官方文档](https://docs.oracle.com/en/java/)
-- [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
-- [Java Concurrency in Practice](https://www.oreilly.com/library/view/java-concurrency-in/9780134000892/)
-
 **提示：**
 
 - 使用 `ArrayList` 或 `LinkedList` 来存储对象。
